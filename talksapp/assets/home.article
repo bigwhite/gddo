@@ -1,4 +1,4 @@
-go-talks.appspot.org
+go-talks.tonybai.com
 
 Francesc Campoy (maintainer)
 @francesc
@@ -6,22 +6,26 @@ Francesc Campoy (maintainer)
 Gary Burd
 @gburd
 
+Tony Bai
+@tony_bai
+
 * Introduction
+This site is the mirror site of go-talks.appspot.com. It is used especially for gophers in Mainland China.
 
 This site plays slide presentations and articles stored on GitHub in the 
-[[http://godoc.org/code.google.com/p/go.tools/present][present format]].
+[[http://godoc.org/golang.org/x/tools/cmd/present][present format]].
 
 The syntax for URLs is:
 
-    http://go-talks.appspot.com/github.com/owner/project/file.ext
-    http://go-talks.appspot.com/github.com/owner/project/sub/directory/file.ext
+    http://go-talks.tonybai.com/github.com/owner/project/file.slide
+    http://go-talks.tonybai.com/github.com/owner/project/sub/directory/file.slide
 
 The supported file extensions (.ext) are .slide and .article.
 
 The .html command is not supported.
 
-This page is [[/github.com/golang/gddo/talksapp/assets/home.article][an article]].
+This page is [[/github.com/bigwhite/gddo/talksapp/assets/home.article][an article]].
 
 * Feedback
 
-Report bugs and request features using the [[https://github.com/golang/gddo/issues/new][GitHub Issue Tracker]]. 
+Report bugs and request features using the [[https://github.com/bigwhite/gddo/issues/new][GitHub Issue Tracker]]. 
